@@ -2,7 +2,7 @@
 // for RTCx(PCf8563) and NTP
 
 #include <Arduino.h>
-#include "BF_Pcf8563.h"
+#include "DS1307.h"
 #include "BF_RtcxNtp.h"
 
 bool sntp_sync_status_complete(false);

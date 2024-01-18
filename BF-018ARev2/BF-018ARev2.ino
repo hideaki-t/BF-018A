@@ -6,7 +6,7 @@
 #include <Ticker.h>
 #include <WiFi.h>
 #include <WiFiManager.h>  // https://github.com/tzapu/WiFiManager
-#include "BF_Pcf8563.h"
+#include "DS1307.h"
 #include "BF_RtcxNtp.h"
 
 //..:....1....:....2....:....3....:....4....:....5....:....6....:....7..
